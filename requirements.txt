@@ -1,0 +1,6 @@
+ultralytics>=8.4.0
+ensemble-boxes
+torch>=2.0
+numpy
+pandas
+scikit-learn
